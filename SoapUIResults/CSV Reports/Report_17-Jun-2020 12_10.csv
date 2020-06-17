@@ -1,0 +1,8 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"TestSuite 1","Login","Get Token","restrequest","OK","","17-Jun-2020 12_10",
+"TestSuite 1","Login","data for login from excel","groovy","OK","","17-Jun-2020 12_10",
+"TestSuite 1","Login","Property Transfer","transfer","OK","Message:Performed transfer [acc]
+","17-Jun-2020 12_10",
+"TestSuite 1","Login","Admin user Login","restrequest","OK","","17-Jun-2020 12_10",
+"TestSuite 1","Logout","Logout","restrequest","OK","","17-Jun-2020 12_10",
+"TestSuite 1","Logout","Copy of Properties","properties","OK","","17-Jun-2020 12_10",

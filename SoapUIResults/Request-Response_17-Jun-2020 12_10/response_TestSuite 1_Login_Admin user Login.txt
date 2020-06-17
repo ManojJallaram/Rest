@@ -1,0 +1,1 @@
+{"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"115.97.186.22","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}

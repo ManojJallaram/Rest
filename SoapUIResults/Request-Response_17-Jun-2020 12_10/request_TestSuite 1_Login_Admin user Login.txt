@@ -1,0 +1,4 @@
+{
+ "username": "${#Project#username}",
+  "password": "${#Project#password}"
+}
